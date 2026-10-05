@@ -1,0 +1,104 @@
+{
+  "release_count": 300,
+  "unique_release_ids": 300,
+  "unique_process_ids": 295,
+  "duplicate_release_ids": 0,
+  "stages": {
+    "award": 272,
+    "awardUpdate": 7,
+    "tender": 16,
+    "planning": 4,
+    "tenderAmendment": 1
+  },
+  "statuses": {
+    "complete": 279,
+    "active": 17,
+    "planned": 3,
+    "planning": 1
+  },
+  "missing_deadline": 4,
+  "missing_tender_amount": 59,
+  "complete_date_window": false,
+  "it_classification_examples": [
+    {
+      "release_id": "896928d1-1221-45c4-9a9a-10e365f2415a-916235",
+      "title": "DDaT26420 - EnCIC Automated Threat Sharing Service (EATSS)",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "36cd1b59-e124-4ea6-98f9-44d4b51c65bf-915990",
+      "title": "DDaT26441 - Enterprise data storage platform support",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "20d14332-2e37-4c5c-b58b-8a5f5009115a-916217",
+      "title": "Phase 2 Salesforce improvements- Access intergration",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "1966c582-ad04-479b-971e-9ee9536fba5c-916211",
+      "title": "Print Services",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "5745ebfb-0da0-439e-870a-9be947ae43e3-916209",
+      "title": "Disaster Recovery CiContinuity - Ship to Site Support",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "d613f421-a0a9-441e-ac80-878c79571460-916193",
+      "title": "NPIS - BT Cloud Contract",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "f7fce0b4-1f3e-4c9c-9e6a-140634fdf04d-916126",
+      "title": "RPA Vendor Support",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "a4822faa-d808-4801-b5b8-2fe47431a3e8-916191",
+      "title": "Web Hosting Contract 2024",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "78975d5d-bada-4996-b88b-1b396a7e79ab-916174",
+      "title": "Transcription tool for Childrens services",
+      "tags": [
+        "award"
+      ],
+      "status": "complete"
+    },
+    {
+      "release_id": "afaeb174-0015-4426-abcb-a3133c4cfd46-916170",
+      "title": "ACORN GEODEMOGRAPHICS TOOL",
+      "tags": [
+        "tender"
+      ],
+      "status": "active"
+    }
+  ]
+}

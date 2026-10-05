@@ -1,0 +1,34 @@
+{
+  "source": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search",
+  "published_from": "2026-09-24T00:00:00Z",
+  "published_to": "2026-10-01T13:00:00Z",
+  "pages": [
+    {
+      "file": "page_001.json",
+      "url": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search?publishedFrom=2026-09-24T00%3A00%3A00Z&publishedTo=2026-10-01T13%3A00%3A00Z&limit=100",
+      "retrieved_at": "2026-10-01T13:21:56.444613+00:00",
+      "sha256": "1111658ccd948d81681e368b65adac057314927557d14622ff634acd1d076396",
+      "release_count": 100,
+      "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    },
+    {
+      "file": "page_002.json",
+      "url": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search?publishedFrom=2026-09-24T00:00:00Z&publishedTo=2026-10-01T13:00:00Z&limit=100&cursor=cHVibGlzaGVkRnJvbT0yMDI2LTA5LTI0VDAwOjAwOjAwWnxwdWJsaXNoZWRUbz0yMDI2LTEwLTAxVDEzOjAwOjAwWnxsaW1pdD0xMDB8bmV4dEN1cnNvcj03ODUxOTI=",
+      "retrieved_at": "2026-10-01T13:22:10.133925+00:00",
+      "sha256": "9d8c402a1e1ae0722dbe106d93f9ac7358e4d811e5a6982fbb2785b18dd4b5a5",
+      "release_count": 100,
+      "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    },
+    {
+      "file": "page_003.json",
+      "url": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search?publishedFrom=2026-09-24T00:00:00Z&publishedTo=2026-10-01T13:00:00Z&limit=100&cursor=cHVibGlzaGVkRnJvbT0yMDI2LTA5LTI0VDAwOjAwOjAwWnxwdWJsaXNoZWRUbz0yMDI2LTEwLTAxVDEzOjAwOjAwWnxsaW1pdD0xMDB8bmV4dEN1cnNvcj03ODUwOTI=",
+      "retrieved_at": "2026-10-01T13:22:22.212393+00:00",
+      "sha256": "c6d88670a8ae31a941e1c0e59e504d72cde61a7506fe23df59d7b860030e48fd",
+      "release_count": 100,
+      "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    }
+  ],
+  "complete": false,
+  "next_url": "https://www.contractsfinder.service.gov.uk/Published/Notices/OCDS/Search?publishedFrom=2026-09-24T00:00:00Z&publishedTo=2026-10-01T13:00:00Z&limit=100&cursor=cHVibGlzaGVkRnJvbT0yMDI2LTA5LTI0VDAwOjAwOjAwWnxwdWJsaXNoZWRUbz0yMDI2LTEwLTAxVDEzOjAwOjAwWnxsaW1pdD0xMDB8bmV4dEN1cnNvcj03ODQ5OTI=",
+  "scope": "bounded sample; not a full catalogue"
+}
