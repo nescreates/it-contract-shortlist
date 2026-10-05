@@ -79,8 +79,9 @@ For a fresh snapshot, use a new destination folder:
 python extract.py --from-date 2026-09-24T00:00:00Z --to-date 2026-10-01T13:00:00Z --output data/raw/my_new_sample --max-pages 3
 ```
 
-The first command runs without internet or credentials. The second requires live API access. A source outage or access restriction should not block offline inspection.
+The transformation and inspection commands run offline without credentials. Only the extraction command requires live API access.
 
+## What I would do next
 - Check additional CPV classifications, rather than only the main category.
 - Handle amendments and related releases together so older notices do not mislead users.
 - Add source links and check procurement restrictions and eligibility.
